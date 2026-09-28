@@ -4,5 +4,5 @@ contact_links:
     url: mailto:rupeefund@fossunited.org
     about: Write to the team for questions about the fund, a contribution or your data.
   - name: Security problem
-    url: https://github.com/rupeefund/.github/blob/main/SECURITY.md
+    url: https://github.com/RupeeFund/.github/blob/main/SECURITY.md
     about: Do not open a public issue. Read the security policy.

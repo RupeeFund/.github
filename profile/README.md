@@ -13,11 +13,11 @@ The fund does not take payments yet. To hear when it opens, join the list at [ru
 
 | Repository                                          | Content                           |
 | --------------------------------------------------- | --------------------------------- |
-| [RupeeFund](https://github.com/rupeefund/RupeeFund) | The site at `rupeefund.org`       |
-| [.github](https://github.com/rupeefund/.github)     | This profile and the health files |
+| [RupeeFund](https://github.com/RupeeFund/RupeeFund) | The site at `rupeefund.org`       |
+| [.github](https://github.com/RupeeFund/.github)     | This profile and the health files |
 
 ## Take part
 
-- Read the [contributing guide](https://github.com/rupeefund/.github/blob/main/CONTRIBUTING.md).
+- Read the [contributing guide](https://github.com/RupeeFund/.github/blob/main/CONTRIBUTING.md).
 - Read the [Code of Conduct](https://rupeefund.org/code-of-conduct).
 - Write to [rupeefund@fossunited.org](mailto:rupeefund@fossunited.org).
