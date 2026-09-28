@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://brand.rupeefund.org/lockup-dark.svg" />
+  <img src="https://brand.rupeefund.org/lockup-light.svg" alt="The Rupee Fund" width="230" />
+</picture>
+
 # The Rupee Fund
 
 The Rupee Fund collects small monthly contributions for free and open source software (FOSS) in India. Volunteers from the FOSS community run it. The [FOSS United Foundation](https://fossunited.org) is the fiscal host.
