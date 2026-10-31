@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: Question about the fund
-    url: mailto:rupeefund@fossunited.org
+    url: mailto:hello@rupeefund.org
     about: Write to the team for questions about the fund, a contribution or your data.
   - name: Security problem
     url: https://github.com/RupeeFund/.github/blob/main/SECURITY.md
